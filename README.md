@@ -34,4 +34,4 @@ Princi/
 
 ## Conheça
 
-Princi foi criado por [Jeniffer Carvalho](https://github.com/jenicarvalho) for a better web.
+Princi foi criado por (https://github.com/jenicarvalho)
