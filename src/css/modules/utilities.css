@@ -1,0 +1,11 @@
+.hidden {
+  visibility: hidden;
+}
+
+.pull-right {
+  float: right; 
+}
+
+.pull-left {
+  float: left; 
+}

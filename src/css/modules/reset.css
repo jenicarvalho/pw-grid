@@ -1,0 +1,32 @@
+*,
+*:after,
+*:before {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+a { text-decoration: none; }
+
+/* NOTE
+Princi is based on 10px sizing. So basically 1.5rem = 15px :) */
+
+html {
+  font-size: 62.5%; 
+}
+
+body {
+  font-size: var(--fontSizeBody);
+  line-height: 1.6;
+  font-weight: 400;
+  font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: var(--black); 
+}
+
+a {
+  color: var(--colorDefault);
+}
+a:hover {
+  color: var(--colorDefaultHover);
+}

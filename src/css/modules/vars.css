@@ -1,0 +1,12 @@
+
+:root {
+  --white: #fff;
+  --black: #222;
+  --colorDefault:  rgba(32, 195, 210, 0.8) ;
+  --colorDefaultHover: rgba(32, 195, 210, 1);
+
+  --fontSizeBody: 1.5rem;
+}
+
+@custom-media --tela-media (width <= 1300px);
+@custom-media --tela-pequena (width <= 990px);
